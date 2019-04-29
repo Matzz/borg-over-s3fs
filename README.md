@@ -22,7 +22,7 @@ bs3test
 ```
 
 
-### Resttore archive
+### Restore archive
 ```
 docker run --privileged \
 -e "S3_BUCKET=[REPLACE_WITH_BUCKET_NAME]" \
